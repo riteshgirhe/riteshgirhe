@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi, I'm Ritesh Girhe 👋</h1>
 <h3 align="center">Turning ideas into code 💻</h3>
 
@@ -146,4 +146,4 @@ https://github.com/riteshgirhe/python-practice
 <i>⭐ Always learning, always building — Thanks for visiting my profile! 🚀</i>
 
 </p>
-```
+
