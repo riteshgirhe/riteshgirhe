@@ -1,112 +1,149 @@
-<h1 align="center">Hi, I'm Ritesh Girhe 👋</h1>
-<h3 align="center">Turning ideas into code 💻</h3>
+<!-- Main Name with Glowing Animation - Matrix Green -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=48&duration=2000&pause=100&color=00FF41&center=true&vCenter=true&width=550&height=80&lines=RITESH+GIRHE" alt="Typing SVG" />
+</h1>
 
+<!-- Subtle Subtitle Below - Bright Orange -->
 <p align="center">
-  🚀 <b>Aspiring Data Analyst / Data Scientist</b> &nbsp;|&nbsp; 📍 India
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&height=40&lines=Data+Scientist+%7C+AI+Developer;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<!-- Stable Tagline - Deep Red -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20SQL%20%7C%20ML%20%7C%20Excel-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=riteshgirhe&style=for-the-badge&color=blueviolet" />
+  <strong style="font-size: 20px; color: #DC143C;">
+    🚀 Aspiring Data Scientist & AI Agents Engineer | Hyderabad, India
+  </strong>
 </p>
 
----
-
-# 👤 About Me
-
-- 🔬 **Aspiring Data Scientist** passionate about solving real-world problems using data.
-- 🐍 Building strong skills in **Python, SQL, Excel, Pandas, NumPy, Scikit-learn, and Statistics**.
-- 📊 Focused on **Data Analysis, Machine Learning, Exploratory Data Analysis (EDA), Data Preprocessing, and Visualization (Matplotlib & Seaborn)**.
-- 🧠 Solving coding challenges daily to sharpen algorithms and analytical thinking.
-- 🌱 Currently learning **Data Science, Machine Learning Algorithms, and Advanced SQL**.
-- 🚀 Building projects that strengthen my portfolio and practical knowledge.
-- 🤝 Open to internships, collaborations, and entry-level Data Science / Data Analyst opportunities.
-
----
-
-# 📜 Certifications
-
-- 🏅 **CS50's Introduction to Programming with Python** – *Harvard University*
-- 🏅 **Microsoft Applied Skills:** *Analyze Data with Excel*
-- 📚 *Continuously learning through hands-on practice and real-world datasets.*
-
----
-
-# 🧰 Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/-Python-14151a?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/-SQL-14151a?style=for-the-badge&logo=sqlite&logoColor=003B57" />
-<img src="https://img.shields.io/badge/-Excel-14151a?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
-<img src="https://img.shields.io/badge/-Pandas-14151a?style=for-the-badge&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/-NumPy-14151a?style=for-the-badge&logo=numpy&logoColor=013243" />
-<img src="https://img.shields.io/badge/-Scikit--Learn-14151a?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/-Matplotlib-14151a?style=for-the-badge&logo=python&logoColor=11557c" />
-<img src="https://img.shields.io/badge/-Seaborn-14151a?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/-PostgreSQL-14151a?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/-HTML5-14151a?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/-CSS3-14151a?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/-Git-14151a?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/-VS_Code-14151a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/-Jupyter-14151a?style=for-the-badge&logo=jupyter&logoColor=F37626" />
-
+<!-- Badges - Mixed Colors -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riteshgirhe&label=Profile%20views&color=00FF41&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-FF8C00?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Aspiring%20Data%20Scientist-DC143C?style=flat" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-00FF41?style=flat" />
 </p>
 
+<!-- Right-aligned GIF -->
+<img align="right" alt="AI & Data Science" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 ---
 
-# 🚀 Featured Project
+<!-- About Me Section -->
+<h3 align="left" style="color: #00FF41;">🚀 About Me</h3>
 
-## 🐍 Python Practice Repository
-
-A comprehensive Python learning repository designed to help beginners and aspiring Data Scientists master Python through structured notes, coding practice, and interview preparation.
-
-### ✨ Features
-
-- 📘 500+ Python Practice Questions
-- 📝 Topic-wise Notes & Explanations
-- 🧠 Logic Building & Problem Solving
-- 🏗 Object-Oriented Programming (OOP)
-- 📂 File Handling & Exception Handling
-- 🎯 Interview Preparation Questions
-- 💡 Beginner to Advanced Examples
-- 🚀 Regularly Updated Content
-
-**Tech Stack**
-
-`Python` • `OOP` • `DSA` • `Problem Solving`
-
-### 🔗 Repository
-
-https://github.com/riteshgirhe/python-practice
+<table align="center" style="border: none; max-width: 800px; margin: 0 auto;">
+  <tr>
+    <td style="border: none; padding: 8px; color: #00FF41; font-size: 18px;">🔭</td>
+    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
+      <strong style="color: #FF8C00;">Aspiring</strong> Data Scientist & AI Engineer
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 8px; color: #FF8C00; font-size: 18px;">🤖</td>
+    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
+      Exploring <strong style="color: #00FF41;">Autonomous AI Agents</strong> with LangChain, LangGraph & CrewAI
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 8px; color: #DC143C; font-size: 18px;">🧠</td>
+    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
+      Working with <strong style="color: #FF8C00;">LLMs</strong> (GPT-4, Claude, Gemini) for innovative applications
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 8px; color: #00FF41; font-size: 18px;">🌱</td>
+    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
+      Deepening expertise in <strong style="color: #DC143C;">Agentic AI</strong>, <strong style="color: #FF8C00;">RAG Pipelines</strong> & <strong style="color: #00FF41;">Django REST APIs</strong>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 8px; color: #FF8C00; font-size: 18px;">🏆</td>
+    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
+      Experienced in <strong style="color: #00FF41;">end-to-end ML pipelines</strong> — from EDA to deployment
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 8px; color: #DC143C; font-size: 18px;">☁️</td>
+    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
+      Hands-on with <strong style="color: #FF8C00;">cloud deployments</strong> & scalable data architecture
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 8px; color: #00FF41; font-size: 18px;">📊</td>
+    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
+      Passionate about turning raw data into <strong style="color: #DC143C;">actionable business insights</strong>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 8px; color: #FF8C00; font-size: 18px;">📫</td>
+    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
+      Reach me at: <strong style="color: #00FF41;">ssartale6@gmail.com</strong>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 8px; color: #DC143C; font-size: 18px;">📍</td>
+    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
+      Based in <strong style="color: #FF8C00;">Hyderabad, India</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+## 🤖 AI & LLM Expertise
+
+```python
+ai_stack = {
+    "LLM Frameworks":    ["LangChain", "LangGraph", "CrewAI", "AutoGen"],
+    "LLMs Used":         ["GPT-4o", "Claude 3.5", "Gemini", "Llama 3"],
+    "Agent Patterns":    ["ReAct", "Tool Use", "Multi-Agent", "RAG"],
+    "Vector Databases":  ["FAISS", "Pinecone", "ChromaDB", "Weaviate"],
+    "MLOps":             ["MLflow", "DVC", "Docker", "Azure ML"],
+    "Deployment":        ["FastAPI", "Django", "Streamlit", "Flask"],
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 AI / ML / Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🤖 AI Agents & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🌐 Web & Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=riteshgirhe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=riteshgirhe&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshgirhe&hide_border=true&background=0d1117&stroke=00FF41&ring=FF8C00&fire=DC143C&currStreakNum=DC143C&sideLabels=00FF41&currStreakLabel=FF8C00&sideNums=00FF41" width="42%" />
 </p>
 
+
+## 📈 Contribution Graph
+
+<!-- Activity Graph -->
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshgirhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshgirhe&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshgirhe&bg_color=0d1117&color=00FF41&line=FF8C00&point=DC143C&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -130,6 +167,12 @@ https://github.com/riteshgirhe/python-practice
 ---
 
 <p align="center">
-  <i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i><br>
-  <b>— John Tukey</b>
+  <i>"Data is more than numbers; it's the foundation of better decisions."</i><br>
+  <b>— Ritesh Girhe</b>
+  
+— Ritesh Girhe
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
