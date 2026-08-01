@@ -28,64 +28,18 @@
 ---
 
 <!-- About Me Section -->
-<h3 align="left" style="color: #00FF41;">🚀 About Me</h3>
+## 👨‍💻 About Me
 
-<table align="center" style="border: none; max-width: 800px; margin: 0 auto;">
-  <tr>
-    <td style="border: none; padding: 8px; color: #00FF41; font-size: 18px;">🔭</td>
-    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
-      <strong style="color: #FF8C00;">Aspiring</strong> Data Scientist & AI Engineer
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 8px; color: #FF8C00; font-size: 18px;">🤖</td>
-    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
-      Exploring <strong style="color: #00FF41;">Autonomous AI Agents</strong> with LangChain, LangGraph & CrewAI
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 8px; color: #DC143C; font-size: 18px;">🧠</td>
-    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
-      Working with <strong style="color: #FF8C00;">LLMs</strong> (GPT-4, Claude, Gemini) for innovative applications
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 8px; color: #00FF41; font-size: 18px;">🌱</td>
-    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
-      Deepening expertise in <strong style="color: #DC143C;">Agentic AI</strong>, <strong style="color: #FF8C00;">RAG Pipelines</strong> & <strong style="color: #00FF41;">Django REST APIs</strong>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 8px; color: #FF8C00; font-size: 18px;">🏆</td>
-    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
-      Experienced in <strong style="color: #00FF41;">end-to-end ML pipelines</strong> — from EDA to deployment
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 8px; color: #DC143C; font-size: 18px;">☁️</td>
-    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
-      Hands-on with <strong style="color: #FF8C00;">cloud deployments</strong> & scalable data architecture
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 8px; color: #00FF41; font-size: 18px;">📊</td>
-    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
-      Passionate about turning raw data into <strong style="color: #DC143C;">actionable business insights</strong>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 8px; color: #FF8C00; font-size: 18px;">📫</td>
-    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
-      Reach me at: <strong style="color: #00FF41;">ssartale6@gmail.com</strong>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 8px; color: #DC143C; font-size: 18px;">📍</td>
-    <td style="border: none; padding: 8px; color: #cccccc; font-size: 16px;">
-      Based in <strong style="color: #FF8C00;">Hyderabad, India</strong>
-    </td>
-  </tr>
-</table>
+- 🔭	Aspiring Data Scientist & AI Engineer
+- 🤖	Exploring Autonomous AI Agents with LangChain, LangGraph & CrewAI
+- 🧠	Working with LLMs (GPT-4, Claude, Gemini) for innovative applications
+- 🌱	Deepening expertise in Agentic AI, RAG Pipelines & Django REST APIs
+- 🏆	Experienced in end-to-end ML pipelines — from EDA to deployment
+- ☁️	Hands-on with cloud deployments & scalable data architecture
+- 📊	Passionate about turning raw data into actionable business insights
+- 📫 Reach me at: **girheritesh1@gmail.com **
+- 📍 Based in **Hyderabad, India**
+---
 
 ---
 
@@ -169,8 +123,6 @@ ai_stack = {
 <p align="center">
   <i>"Data is more than numbers; it's the foundation of better decisions."</i><br>
   <b>— Ritesh Girhe</b>
-  
-— Ritesh Girhe
 </p>
 
 <p align="center">
