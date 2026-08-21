@@ -11,7 +11,7 @@
 <!-- Stable Tagline - Deep Red -->
 <p align="center">
   <strong style="font-size: 20px; color: #DC143C;">
-    🚀 Aspiring Data Scientist & AI Agents Engineer | Hyderabad, India
+    🚀 Aspiring Data Scientist & AI Agents Engineer | Pune, India
   </strong>
 </p>
 
@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=riteshgirhe&label=Profile%20views&color=00FF41&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-FF8C00?style=flat" />
   <img src="https://img.shields.io/badge/Status-Aspiring%20Data%20Scientist-DC143C?style=flat" />
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-00FF41?style=flat" />
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-00FF41?style=flat" />
 </p>
 
 <!-- Right-aligned GIF -->
