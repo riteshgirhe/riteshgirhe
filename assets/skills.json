@@ -1,0 +1,22 @@
+{
+  "_comment": "Unranked profile areas supplied by Ritesh; no numeric skill ratings are implied.",
+  "title": "Data Science and Machine Learning",
+  "groups": {
+    "Focus": [
+      "Data Science",
+      "Machine Learning",
+      "Data Analytics"
+    ],
+    "Exploring": [
+      "SQL",
+      "Statistics",
+      "Data Visualization",
+      "Exploratory Data Analysis"
+    ],
+    "Building": [
+      "Practical ML Models",
+      "Data-Driven Solutions",
+      "Model Deployment"
+    ]
+  }
+}

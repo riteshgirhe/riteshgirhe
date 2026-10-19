@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ritesh Girhe - profile preview</title>
+  <style>
+    :root { color-scheme: dark; }
+    body { margin: 0; padding: 32px; background: #0d1117; color: #c9d1d9; font: 15px/1.5 ui-sans-serif, Segoe UI, system-ui, sans-serif; }
+    main { max-width: 1180px; margin: auto; }
+    h1 { font-size: 22px; color: #aa9bef; }
+    h2 { margin: 36px 0 14px; font-size: 14px; text-transform: uppercase; letter-spacing: .12em; color: #8b949e; }
+    .row { display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; }
+    .card { min-width: 0; padding: 16px; border: 1px solid #30363d; border-radius: 10px; background: #111827; }
+    .card.light { background: #fff; }
+    .tag { display: block; margin-bottom: 10px; font: 11px ui-monospace, Consolas, monospace; color: #8b949e; }
+    img { display: block; max-width: 100%; height: auto; }
+    .banner { width: min(100%, 880px); }
+    .portrait { width: 300px; }
+    button { margin-left: 12px; padding: 4px 10px; border: 1px solid #30363d; border-radius: 6px; background: #21262d; color: #c9d1d9; cursor: pointer; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Ritesh Girhe - profile preview</h1>
+  <h2>Animated banner <button id="replay-banner">Replay</button></h2>
+  <div class="row">
+    <div class="card"><span class="tag">Dark theme</span><img class="banner" src="assets/banner-dark.v9.svg" alt="Dark profile banner"></div>
+    <div class="card light"><span class="tag">Light theme</span><img class="banner" src="assets/banner-light.v9.svg" alt="Light profile banner"></div>
+  </div>
+  <h2>Portrait <button id="replay-portrait">Replay</button></h2>
+  <div class="row">
+    <div class="card"><span class="tag">Dark theme</span><img class="portrait" src="assets/portrait-dark.svg" alt="Portrait on dark background"></div>
+    <div class="card light"><span class="tag">Light theme</span><img class="portrait" src="assets/portrait-light.svg" alt="Portrait on light background"></div>
+  </div>
+</main>
+<script>
+  document.getElementById('replay-banner').onclick = () => document.querySelectorAll('.banner').forEach(img => { img.src = img.src.split('?')[0] + '?' + Date.now(); });
+  document.getElementById('replay-portrait').onclick = () => document.querySelectorAll('.portrait').forEach(img => { img.src = img.src.split('?')[0] + '?' + Date.now(); });
+</script>
+</body>
+</html>

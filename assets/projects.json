@@ -1,0 +1,13 @@
+{
+  "_comment": "Featured repositories. Descriptions are supplied by the profile owner.",
+  "projects": [
+    {
+      "repo": "smart-agriculture-ai",
+      "description": "AgriSense AI - Smart Agriculture"
+    },
+    {
+      "repo": "citibike-data-analysis",
+      "description": "Citi Bike Data Analysis"
+    }
+  ]
+}

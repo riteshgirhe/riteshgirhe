@@ -1,0 +1,25 @@
+{
+  "_comment": "Profile technology inventory supplied by Ritesh; this is not a ranked proficiency chart.",
+  "title": "Tech Stack",
+  "groups": {
+    "Languages": [
+      "Python",
+      "SQL",
+      "C++",
+      "JavaScript"
+    ],
+    "Data Science and ML": [
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "Matplotlib",
+      "Seaborn"
+    ],
+    "Database and Tools": [
+      "PostgreSQL",
+      "Git",
+      "GitHub",
+      "VS Code"
+    ]
+  }
+}
