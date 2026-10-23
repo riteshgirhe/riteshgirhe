@@ -271,8 +271,12 @@
  
 <div align="center">
 <!-- Streak and views -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshgirhe&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-<br>
+<img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=riteshgirhe&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata"
+    alt="GitHub contribution streak"
+  />
+  <br>
  
 <!-- Profile details -->
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshgirhe&theme=tokyonight" alt="Profile details">
