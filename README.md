@@ -55,7 +55,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img width="100%" alt="AI and Data Science animation" src="assets/data-animation.svg"/>
+      <img width="100%" alt="AI and Data Science animation" src="assets/Mini process vid of this shot for our recent Polsia animation with @bttr_hlf.jpg"/>
     </td>
   </tr>
 </table>
