@@ -277,9 +277,30 @@
     alt="GitHub contribution streak"
   />
   <br>
- 
-<!-- Profile details -->
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshgirhe&theme=tokyonight" alt="Profile details">
+
+
+<!-- GitHub Contributions -->
+<div align="center">
+
+  <h2>📈 Contribution Activity</h2>
+  <p><i>Consistency builds great software — one commit at a time.</i></p>
+
+  <a href="https://github.com/riteshgirhe">
+    <img
+      src="https://ghchart.rshah.org/39d353/riteshgirhe"
+      alt="GitHub contribution activity for Ritesh Girhe"
+      width="100%"
+    />
+  </a>
+
+  <p>
+    <a href="https://github.com/riteshgirhe?tab=repositories">
+      <b>Explore My Repositories →</b>
+    </a>
+  </p>
+
+</div>
+
  
 <!-- Language bar -->
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshgirhe&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
