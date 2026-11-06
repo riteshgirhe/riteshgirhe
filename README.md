@@ -210,6 +210,17 @@
   </tr>
 
   <tr>
+  <td>📈 <b>Google Advanced Data Analytics</b></td>
+  <td>Google / Coursera</td>
+  <td>Statistical analysis, regression, machine learning, and data-driven decision-making</td>
+  <td align="center">
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/DGKK8ASRMNX4">
+      <img src="https://img.shields.io/badge/View_Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="View Google Advanced Data Analytics certificate">
+    </a>
+  </td>
+ </tr>
+
+  <tr>
     <td>🐍 <b>Python Data Analysis</b></td>
     <td>freeCodeCamp</td>
     <td>Data Analysis with Python Developer Certification</td>
