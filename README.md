@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-dark.v9.svg" width="100%" alt="Ritesh Girhe — Data Science and Machine Learning">
+    <img src="assets/banner-dark.v9.svg" width="100%" alt="Ritesh G Girhe — Data Science and Machine Learning">
   </picture>
 
   <br>
